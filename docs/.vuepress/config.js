@@ -18,6 +18,10 @@ module.exports = {
             {
                 text: 'Blog',
                 link: '/blog/'
+            },
+            {
+                text: 'Valentines',
+                link: '/olivia/'
             }
         ]
     }
